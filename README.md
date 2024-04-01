@@ -42,12 +42,12 @@ submitted by:
 P.Abirami
 212222060006
 ```
-``
+```
 module decoder_8(a,b,c,y);
 input a,b,c;
 output[7:0]y;
 endmodule
-``
+```
 
 # OUTPUT:
 ![Screenshot 2024-03-31 230733](https://github.com/abiramipitchaimani/ENCODER8TO3/assets/163704307/0ab55088-1696-44cc-b855-d005515b861d)
