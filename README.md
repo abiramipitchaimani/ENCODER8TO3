@@ -43,9 +43,9 @@ P.Abirami
 212222060006
 ```
 ```
-module decoder_8(a,b,c,y);
-input a,b,c;
-output[7:0]y;
+module encoder_8(d,a,b,c);
+input [7:0]d;
+output a,b,c;
 endmodule
 ```
 
