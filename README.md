@@ -37,10 +37,17 @@ On the board, by giving required input, the LEDs starts to glow light, indicatin
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/6fa5fe84-fe6f-472d-b9c0-e6dfa17413d3)
 ![image](https://github.com/RESMIRNAIR/ENCODER3TO8/assets/154305926/7d147e2a-ba03-4714-baee-17615c9c50c1)
 # PROGRAM:
+```
+submitted by:
+P.Abirami
+212222060006
+```
+````
 module decoder_8(a,b,c,y);
 input a,b,c;
 output[7:0]y;
 endmodule
+```
 # OUTPUT:
 ![Screenshot 2024-03-31 230733](https://github.com/abiramipitchaimani/ENCODER8TO3/assets/163704307/0ab55088-1696-44cc-b855-d005515b861d)
 # RESULT:
